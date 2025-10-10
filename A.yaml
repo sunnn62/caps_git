@@ -1,8 +1,9 @@
 team: A
 
-manager: manager_a
+manager: manager_a2
 
 members:
 - member1
 - member2
 - member3
+- member4
