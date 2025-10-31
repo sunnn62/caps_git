@@ -1,0 +1,9 @@
+team : C
+
+manager: manager_c
+
+members:
+- m1
+- m2
+- m3
+- branch_c
