@@ -2,7 +2,7 @@ team: C
 
 manager: manager_c
 
-coach: caps_c 
+coach: 111112
 members: 
 - m1
 - m2
@@ -10,3 +10,4 @@ members:
 - branch_c
 - apple
 - 111122
+- mangos
